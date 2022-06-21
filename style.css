@@ -215,6 +215,9 @@ i{
     border-top-left-radius: 10rem;
 }
 
+
+
+
 .last {
     height: 5rem;
     background-color: aliceblue;
@@ -248,33 +251,7 @@ i{
     border-radius: ;
 } */
 
-#triangle-topleft {
-  
-    width: 100%;
-    height: 7rem;
-    background: aliceblue;
-    clip-path: polygon(0% 0%, 100% 0%, 0% 100%);
-    background: linear-gradient(to bottom right, aliceblue 45%, orange 0%);
-  
-  }
-  
 
-/* #triangle-topright {
-    width: 0;
-    height: 0;
-    border-top: 10rem solid aliceblue;
-    border-left: 53rem solid transparent;
-  } */
-
-
-  #triangle-topright {
-
-    width: 100%;
-     height: 7rem; 
-    background: aliceblue;
-    clip-path: polygon(0% 0%, 100% 0%, 100% 100%);
-    background: linear-gradient(to bottom left, aliceblue 45%, orange 0%);
-  }
 
 /* .dhruv{
     display: inline-block;
@@ -285,24 +262,8 @@ i{
 	height: auto; 
 } */
 
-#triangle-bottomleft {
-    
-    width: 100%;
-    height: 15rem;
-    background: aliceblue;
-    clip-path: polygon(0% 0%, 0% 100%, 100% 100%);
-    background: linear-gradient(to top right, aliceblue 45%, orange 0%);
-  
-  }
 
-  #triangle-bottomright {
 
-    width: 100%;
-     height: 15rem; 
-    background: aliceblue;
-    clip-path: polygon(0% 100%, 100% 100%, 100% 0%);
-    background: linear-gradient(to top left, aliceblue 45%, orange 0%);
-  }
 
   #chevron {
     position: relative;
@@ -406,3 +367,73 @@ i{
       border-left: 550px solid transparent;
       border-right: 550px solid transparent;
     } */
+
+
+
+.dhruvb{
+        width: 119%;
+      margin-left: -9.5%;
+}
+
+.tbox{
+    /* padding-left: 0 !important;
+    padding-right: 0 !important; */
+  width: 102%;
+height: 4rem;
+display: block;
+background-color: aliceblue;
+margin-left: -1%;
+}
+
+#triangle-bottomleft {
+    
+    width: 100%;
+    height: 15rem;
+    background: aliceblue;
+    clip-path: polygon(0% 0%, 0% 100%, 86% 100%,86% 86%);
+    background: linear-gradient(to top right, aliceblue 45%, orange 0%);
+    transform: translateX(14.2%);
+  
+  }
+
+
+#triangle-bottomright {
+
+    width: 100%;
+     height: 15rem; 
+    background: aliceblue;
+    clip-path: polygon(100% 0%, 100% 100%,14% 100%,14% 86%);
+    background: linear-gradient(to top left, aliceblue 45%, orange 0%);
+    transform: translateX(-14.2%);
+}
+
+#triangle-topleft {
+  
+    width: 100%;
+    height: 7rem;
+    background: aliceblue;
+    clip-path: polygon(0% 0%, 83% 0%,83% 17%,0% 100%);
+    background: linear-gradient(to bottom right, aliceblue 41%, orange 0%);
+    transform: translateX(17.5%);
+
+  
+}
+  
+
+#triangle-topright {
+
+    width: 100%;
+     height: 7rem; 
+    background: aliceblue;
+    clip-path: polygon(17% 0%, 100% 0%, 100% 100%,17% 17%);
+    background: linear-gradient(to bottom left, aliceblue 41%, orange 0%);
+    transform: translateX(-17.5%);
+
+}
+
+
+.dhruvt{
+    width: 123.8%;
+  margin-left: -11.9%;
+  
+      }
