@@ -383,7 +383,7 @@ display: block;
 background-color: aliceblue;
 margin-left: -1%;
 }
-
+/*
 #triangle-bottomleft {
     
     width: 100%;
@@ -395,7 +395,7 @@ margin-left: -1%;
   
   }
 
-/*
+
 #triangle-bottomright {
 
     width: 100%;
@@ -429,11 +429,11 @@ margin-left: -1%;
     transform: translateX(-17.5%);
 
 }
-
+*/
 
 .dhruvt{
     width: 123.8%;
   margin-left: -11.9%;
   
       }
-*/
+
