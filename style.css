@@ -373,6 +373,8 @@ i{
 .dhruvb{
         width: 100%;
 /*       margin-left: -9.5%; */
+	padding-left:0 !important;
+	padding-right:0 !important;
 }
 
 .tbox{
@@ -434,6 +436,8 @@ margin-left: -1%;
 .dhruvt{
     width: 100%;
 /*   margin-left: -11.9%; */
+	padding-left:0 !important;
+	padding-right:0 !important;
   
       }
 
