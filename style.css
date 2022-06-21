@@ -386,7 +386,7 @@ margin-left: -1%;
 
 #triangle-bottomleft {
     
-    width: 100%;
+    width: 80%;
     height: 15rem;
     background: aliceblue;
     clip-path: polygon(0% 0%, 0% 100%, 86% 100%,86% 86%);
@@ -398,7 +398,7 @@ margin-left: -1%;
 
 #triangle-bottomright {
 
-    width: 100%;
+    width: 80%;
      height: 15rem; 
     background: aliceblue;
     clip-path: polygon(100% 0%, 100% 100%,14% 100%,14% 86%);
@@ -408,7 +408,7 @@ margin-left: -1%;
 
 #triangle-topleft {
   
-    width: 100%;
+    width: 80%;
     height: 7rem;
     background: aliceblue;
     clip-path: polygon(0% 0%, 83% 0%,83% 17%,0% 100%);
@@ -421,7 +421,7 @@ margin-left: -1%;
 
 #triangle-topright {
 
-    width: 100%;
+    width: 80%;
      height: 7rem; 
     background: aliceblue;
     clip-path: polygon(17% 0%, 100% 0%, 100% 100%,17% 17%);
