@@ -383,7 +383,7 @@ display: block;
 background-color: aliceblue;
 margin-left: -1%;
 }
-/*
+
 #triangle-bottomleft {
     
     width: 100%;
@@ -391,7 +391,7 @@ margin-left: -1%;
     background: aliceblue;
     clip-path: polygon(0% 0%, 0% 100%, 86% 100%,86% 86%);
     background: linear-gradient(to top right, aliceblue 45%, orange 0%);
-    transform: translateX(14.2%);
+/*     transform: translateX(14.2%); */
   
   }
 
@@ -403,7 +403,7 @@ margin-left: -1%;
     background: aliceblue;
     clip-path: polygon(100% 0%, 100% 100%,14% 100%,14% 86%);
     background: linear-gradient(to top left, aliceblue 45%, orange 0%);
-    transform: translateX(-14.2%);
+/*     transform: translateX(-14.2%); */
 }
 
 #triangle-topleft {
@@ -413,7 +413,7 @@ margin-left: -1%;
     background: aliceblue;
     clip-path: polygon(0% 0%, 83% 0%,83% 17%,0% 100%);
     background: linear-gradient(to bottom right, aliceblue 41%, orange 0%);
-    transform: translateX(17.5%);
+/*     transform: translateX(17.5%); */
 
   
 }
@@ -426,10 +426,10 @@ margin-left: -1%;
     background: aliceblue;
     clip-path: polygon(17% 0%, 100% 0%, 100% 100%,17% 17%);
     background: linear-gradient(to bottom left, aliceblue 41%, orange 0%);
-    transform: translateX(-17.5%);
+/*     transform: translateX(-17.5%); */
 
 }
-*/
+
 
 .dhruvt{
     width: 123.8%;
